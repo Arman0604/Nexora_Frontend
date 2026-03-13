@@ -1,0 +1,7 @@
+{
+  "startupCommands": [
+    "npm install; nohup npm run dev -- --host 0.0.0.0 --port 5173 > .orchids/dev.log 2>&1 &"
+  ],
+  "projectId": "f43c6b2d-72cf-4ad1-bad0-4343713d108f",
+  "templateId": "any"
+}
